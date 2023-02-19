@@ -1,0 +1,9 @@
+List of Text Files in the location
+
+Total Number of Words are shown as below for each text file
+
+Grand Total Number of Words present in all the Text Files is: 0
+
+There is no file name IF.txt in the folder. Please upload
+
+IP Address is: 127.0.0.1
